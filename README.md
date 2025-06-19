@@ -25,3 +25,8 @@
   - trying to learn C#
   - i know lots of basic HTML
 </p>  
+
+<h3 align="center">other:</h3>  
+<p align="center">  
+  - FRICKEN MONKEHAVOC IS NOT MINE, IT'S A FORK OF A MOD THAT WAS TAKEN DOWN
+</p>  
