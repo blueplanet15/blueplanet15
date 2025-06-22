@@ -23,6 +23,8 @@
 <h3 align="center">coding languages i use:</h3>  
 <p align="center">  
   - trying to learn C#
+</p>  
+<p align="center">  
   - i know lots of basic HTML
 </p>  
 
