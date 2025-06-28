@@ -1,5 +1,5 @@
 <h1 align="center">
-  hi! i'm BP15! :3
+  hi! i'm BPGT! :3
 </h1>
 
 <h2 align="center">14yr old that likes to play/mod gtag :p</h2>  
