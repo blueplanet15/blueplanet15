@@ -21,4 +21,5 @@
 <h3 align="center">other:</h3>  
 <p align="center">  
   - "MonkeHavoc" Is not my mod, it is a fork of a taken down mod.
+  - "HandController" Is also NOT my mod, like "MonkeHavoc" its a fork, but its not taken down so idk why ive gotten people saying its mine???
 </p>  
