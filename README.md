@@ -15,7 +15,7 @@
 
 <h3 align="center">Projects:</h3>
 <p align="center">  
-  <a href="https://discord.gg/G3RnCaWNxc">Discord Server</a> | <a href="https://github.com/blueplanet15/LobbyUtils">Lobby Utils</a> | <a href="https://github.com/blueplanet15/GorillaPlayerIDDisplay">Gorilla Player ID Display</a> | <a href="https://github.com/blueplanet15/PCNeckMovement">PC Neck Movement</a>
+  <a href="https://discord.gg/G3RnCaWNxc">Discord Server</a> | <a href="https://github.com/blueplanet15/LobbyUtils">Lobby Utils</a> | <a href="https://github.com/blueplanet15/PCNeckMovement">PC Neck Movement</a>
 </p>
 
 <h3 align="center">other:</h3>  
